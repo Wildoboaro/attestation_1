@@ -24,3 +24,8 @@ _Примеры:_
 2. Поочередно проверяем каждый элемент исходного массива из строк на длинну(строки). В случае, если условие(длинна менее или ровна трем) выполняется, присавиваем значение этого элемента , элементу итогового массива с номером resCount и увеличиваем номер resCount на единцу.
 3. После того как провернны все элементы исходного массива, уменьшаем размер итогового массива до resCount. 
 4. Выводим резльтат.    
+
+
+Аннотация: [README.md](https://github.com/Wildoboaro/attestation_1/blob/98452d1b301d133c794e0909d9ebbc64ed6ced01/README.md)   
+Блок-схема: [Attestation.jpg](https://github.com/Wildoboaro/attestation_1/blob/98452d1b301d133c794e0909d9ebbc64ed6ced01/Attestation.jpg)   
+Программа: [Program.cs](https://github.com/Wildoboaro/attestation_1/blob/98452d1b301d133c794e0909d9ebbc64ed6ced01/code/Program.cs)
